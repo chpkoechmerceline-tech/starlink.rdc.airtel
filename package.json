@@ -1,7 +1,7 @@
 {
-  "name": "geofrylite",
+  "name": "my airtel app",
   "version": "1.0.0",
-  "description": "GEOFRYLITE data request demo with Telegram admin approvals",
+  "description": "GEOFRYLITE data request real with Telegram admin approvals",
   "main": "server.js",
   "scripts": { "start": "node server.js" },
   "engines": { "node": ">=18" },
